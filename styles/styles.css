@@ -1,0 +1,23 @@
+p {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+p.pas {
+  color: rgb(0, 0, 0);
+  border: none;
+  font-size: 20px;
+}
+
+html {
+  background-color: #e4e1e1;
+}
+
+body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 0 20px 20px 20px;
+    border: 1px solid black;
+}

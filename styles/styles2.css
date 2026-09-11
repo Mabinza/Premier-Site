@@ -1,0 +1,62 @@
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+.titre {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 5px black;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+.github {
+    background-color: rgb(22, 124, 187);
+    color: white;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+.github:hover {
+    background: #0d19a5;
+    font-size: 25px;
+    box-shadow: 0px 0px 10px black;
+}
+
+body {
+    background-image: url("../images/background.avif");
+}
+
+.liste {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #1e1e1e;
+    color: white;
+    width: 300px;
+    padding: 4px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+ul li:hover {
+    background-color: #0d19a5;
+    font-size: 15px;
+    box-shadow: 0px 0px 10px black;
+}
